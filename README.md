@@ -60,7 +60,7 @@
   - キャラクターCGコースの皆さんは、プロジェクトに組み込むためのデータができたら、決められたフォルダーに、決められたファイル名でコピーする
   - 更新したら、Trelloなどで報告
   - 原則として、プログラマーは報告されたデータをその日のうちに組み込み、制作者に見せること
-- Googleスプレッドシート
+- [Google Drive](https://drive.google.com/drive/)
   - グラフィック素材のファイル名や制作担当者、進捗などを共有する
   - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
 
