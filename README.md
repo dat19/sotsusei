@@ -9,8 +9,6 @@
 - 2月 DVDに焼いて、パッケージの作成 / Webで公開
 
 # 1週目
-- 水ABC
-- 金B, AC
 
 ## 1回目
 - ガイダンス [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_to0KzjF6rMyHSnRQ?e=8VnPAU)
