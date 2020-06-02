@@ -1,4 +1,4 @@
-# 卒業制作-DAT2019年度生
+# 卒業制作-2019年度生
 
 # 参考URL
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
@@ -9,9 +9,26 @@
 - 2月 DVDに焼いて、パッケージの作成 / Webで公開
 
 # 1週目
+- 卒業制作の方針
+- 自己紹介と希望の作品
+- チーム分け
+- 企画のブレインストーミング
 
 ## 1回目
+### 卒業制作の方針
 - ガイダンス [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_to0KzjF6rMyHSnRQ?e=8VnPAU)
+- [ポートフォリオ基本のき　メモ](https://docs.google.com/document/d/10oJlWgdlyhmemeEHsd87exYVEapaZo3ePxTKDKSICBc/)
+  - [ポートフォリオ基本のき](https://cgworld.jp/special/entrylive-online/vol1/channel/104/)
+
+### 自己紹介と希望の作品
+
+
+### チーム分け
+
+
+### 企画のブレインストーミング
+
+
 - 2017年度生と2018年度生の作品の試遊会
 - 自己紹介と制作希望のゲームのタイプ、ジャンルの発表
 - チームの仮決め
