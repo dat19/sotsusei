@@ -20,6 +20,10 @@
 - ガイダンス [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_to0KzjF6rMyHSnRQ?e=8VnPAU)
 - [ポートフォリオ基本のき　メモ](https://docs.google.com/document/d/10oJlWgdlyhmemeEHsd87exYVEapaZo3ePxTKDKSICBc/)
   - [ポートフォリオ基本のき](https://cgworld.jp/special/entrylive-online/vol1/channel/104/)
+- Unity1週間ゲームジャムLT
+  - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)
+  - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)
+  - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)
 - 2017年度生と2018年度生の作品の紹介
 
 ### 自己紹介と希望の作品
