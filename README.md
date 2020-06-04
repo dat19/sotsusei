@@ -25,6 +25,7 @@
   - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)
   - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)
 - 2017年度生と2018年度生の作品の紹介
+  - [Greening](https://youtu.be/YIH_g-8d4dU)
 
 ### 自己紹介と希望の作品
 配布した紙に記入ののち、自己紹介と希望の作品の発表。サーバーを使う場面を検討。
