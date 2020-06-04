@@ -26,6 +26,8 @@
   - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)
 - 2017年度生と2018年度生の作品の紹介
   - [Greening](https://youtu.be/YIH_g-8d4dU)
+  - [はんぐらびぃStage1](https://www.youtube.com/watch?v=m1n--Ws1IyA) / [Stage2](https://youtu.be/MbufuWRoShQ) / [Stage3](https://youtu.be/dDulxJgI45o)
+  
 
 ### 自己紹介と希望の作品
 配布した紙に記入ののち、自己紹介と希望の作品の発表。サーバーを使う場面を検討。
