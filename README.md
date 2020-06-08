@@ -46,6 +46,8 @@
   - グラフィック素材のファイル名や制作担当者、進捗などを共有する
   - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
 
+## 参考
+- [AUTOMATON. 一方方向ローグライクRPG『片道勇者プラス』](https://automaton-media.com/articles/newsjp/20200607-126557/)
 
 # 1週目
 - 卒業制作の方針
