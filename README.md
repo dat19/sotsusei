@@ -48,6 +48,7 @@
 
 ## 参考
 - [AUTOMATON. 一方方向ローグライクRPG『片道勇者プラス』](https://automaton-media.com/articles/newsjp/20200607-126557/)
+- [4Gamer.net. 作品の価値を摩耗させないために](https://www.4gamer.net/games/223/G022384/20160826078/)
 
 # 1週目
 - 卒業制作の方針
