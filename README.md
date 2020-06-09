@@ -6,9 +6,7 @@
 - [テラシュールブログ. Unity 2017の新しいスプライトをパッキングする仕組み、”SpriteAtlas”について](http://tsubakit1.hateblo.jp/entry/2017/05/04/233000)
 
 # 素材
-- [ぐらびぃ](Resources/Graviy.unitypackage)
-- <a href="Resources/Graviy.unitypackage" download="Graviy.unitypackage">ぐらびぃアニメーション</a>
-  -
+- [ぐらびぃ](Resources/Graviy.unitypackage) > View rawをクリック
 
 # 年間の予定
 - 6月～7月 試遊作品の完成とポートフォリオの充実(フェーズ1)
