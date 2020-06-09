@@ -4,6 +4,7 @@
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 - [Visual Effect Graphサンプル](https://blogs.unity3d.com/jp/?s=visual+effect+graph+sample)
 - [テラシュールブログ. Unity 2017の新しいスプライトをパッキングする仕組み、”SpriteAtlas”について](http://tsubakit1.hateblo.jp/entry/2017/05/04/233000)
+- [Unity Japan. Unity道場2D編 ライティングで差をつけろ！（6月9日号）](https://youtu.be/Km_4NQPk59s)
 
 # 素材
 - [ぐらびぃ](Resources/Graviy.unitypackage) > View rawをクリック
