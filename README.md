@@ -22,9 +22,9 @@
 
 ### 企画の作り方 / チーム開発
 - Unity1週間ゲームジャムLT
-  - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)
-  - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)
-  - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)
+  - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)・・・チーム開発について
+  - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
+  - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - 2018年度生の作品の紹介
   - [Greening](https://youtu.be/YIH_g-8d4dU)
   - [はんぐらびぃStage1](https://www.youtube.com/watch?v=m1n--Ws1IyA) / [Stage2](https://youtu.be/MbufuWRoShQ) / [Stage3](https://youtu.be/dDulxJgI45o)
