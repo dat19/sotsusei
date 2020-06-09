@@ -37,6 +37,18 @@
 - [Trello](https://trello.com)
   - チームの作成
   - ボードの作成(仕様 / Backlog / TODO / Check / Done)
+    - Backlog
+      - まだ手を付けていない作業
+      - 思いついた作業のカードをこのリストに作成する
+    - TODO
+      - 作業を開始した項目を、BacklogからTODOに移す
+      - 期限と担当者を決める
+    - Check
+      - 実装を完了したらTODOからCheckに移す
+      - チーム内で動作確認をする
+      - 問題点や修正が必要になったら、Backlogに戻すか、期限を更新してTODOに戻す
+    - Done
+      - 問題なく動作したら、CheckからDoneに移して作業完了
 - [GitHub](https://github.com)
   - リポジトリーを作成
 - 共有ドライブ
