@@ -4,6 +4,10 @@
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 - [Visual Effect Graphサンプル](https://blogs.unity3d.com/jp/?s=visual+effect+graph+sample)
 
+# 素材
+- [ぐらびぃ](Resources/Graviy.unitypackage)
+- <a href="Resources/Graviy.unitypackage" download="Graviy.unitypackage">ぐらびぃアニメーション</a>
+
 # 年間の予定
 - 6月～7月 試遊作品の完成とポートフォリオの充実(フェーズ1)
 - 11月 正式版の開発。展示版の作成 / Webで公開(フェーズ2)
@@ -80,7 +84,7 @@
 - ガイダンス [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_to0KzjF6rMyHSnRQ?e=8VnPAU)
 - [ポートフォリオ基本のき　メモ](https://docs.google.com/document/d/10oJlWgdlyhmemeEHsd87exYVEapaZo3ePxTKDKSICBc/)
   - [ポートフォリオ基本のき](https://cgworld.jp/special/entrylive-online/vol1/channel/104/)
-  
+
 
 ### 自己紹介と希望の作品
 配布した紙に記入ののち、自己紹介と希望の作品の発表。サーバーを使う場面を検討。
@@ -114,4 +118,3 @@
 チームごとにブレストの結果発表。
 
 まとまってなくてよい。出たアイディアや方向性を代表者に発表してもらって、他のチームから意見をもらう。
-
