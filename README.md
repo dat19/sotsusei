@@ -37,6 +37,8 @@
 - [Trello](https://trello.com)
   - チームの作成
   - ボードの作成(仕様 / Backlog / TODO / Check / Done)
+    - 仕様
+      - 企画の参考資料やゲーム画面サイズ、ストーリー、参考URL、使用アセット、メンバー情報などのカードを作成
     - Backlog
       - まだ手を付けていない作業
       - 思いついた作業のカードをこのリストに作成する
@@ -58,6 +60,8 @@
 - [Google Drive](https://drive.google.com/drive/)
   - グラフィック素材のファイル名や制作担当者、進捗などを共有する
   - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
+- 作業の割り振りについて相談
+
 
 ## 参考
 - [AUTOMATON. 一方方向ローグライクRPG『片道勇者プラス』](https://automaton-media.com/articles/newsjp/20200607-126557/)
