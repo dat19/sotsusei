@@ -37,6 +37,7 @@
   - [はんぐらびぃStage1](https://www.youtube.com/watch?v=m1n--Ws1IyA) / [Stage2](https://youtu.be/MbufuWRoShQ) / [Stage3](https://youtu.be/dDulxJgI45o)
 - 開発環境の準備と利用の練習
   - キャラクターCGの人たちは、GitHubアカウントとTrelloアカウントの作成
+    - [作業メモ](https://docs.google.com/document/d/1bRQoVxfwsWoijGeEbPVwCFM9jctwKr6NfTxcPaXZflw/)
   - プログラマーの人たちは、決まった作品について以下のことを決める
     - 画面の解像度
     - 開発する項目をリストアップして、順番を検討する
@@ -58,6 +59,8 @@
       - 問題点や修正が必要になったら、Backlogに戻すか、期限を更新してTODOに戻す
     - Done
       - 問題なく動作したら、CheckからDoneに移して作業完了
+
+## 2回目-2日目
 - [GitHub](https://github.com)
   - リポジトリーを作成
 - 共有ドライブ
@@ -69,10 +72,11 @@
   - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
 - 作業の割り振りについて相談
 
-
-## 参考
+### 参考
 - [AUTOMATON. 一方方向ローグライクRPG『片道勇者プラス』](https://automaton-media.com/articles/newsjp/20200607-126557/)
 - [4Gamer.net. 作品の価値を摩耗させないために](https://www.4gamer.net/games/223/G022384/20160826078/)
+
+
 
 # 1週目
 - 卒業制作の方針
