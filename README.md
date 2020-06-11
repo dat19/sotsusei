@@ -15,7 +15,9 @@
 - 11月 正式版の開発。展示版の作成 / Webで公開(フェーズ2)
 - 2月 DVDに焼いて、パッケージの作成 / Webで公開(フェーズ3)
 
-## 2回目
+# 2週目
+
+## 2日目
 ### Bグループ
 - 作業割り振りの確認
 - 3Dモデルの読み込み方法の調査
@@ -23,9 +25,25 @@
 ### Cグループ
 - 初回説明
 
+### Aグループ
+
+
 ### 共通
 - Unityプロジェクトの作成とGitHubリポジトリー作成
 - GitHubにチームメンバーを加える
+- 共有ドライブ
+  - キャラクターCGコースの皆さんは、プロジェクトに組み込むためのデータができたら、決められたフォルダーに、決められたファイル名でコピーする
+  - 更新したら、Trelloなどで報告
+  - 原則として、プログラマーは報告されたデータをその日のうち、遅くとも、次の講義までに組み込み、制作者に見せる
+- [Google Drive](https://drive.google.com/drive/)
+  - グラフィック素材のファイル名や制作担当者、進捗などを共有する
+  - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
+- 作業の割り振りについて相談
+
+### 参考
+- [AUTOMATON. 一方方向ローグライクRPG『片道勇者プラス』](https://automaton-media.com/articles/newsjp/20200607-126557/)
+- [4Gamer.net. 作品の価値を摩耗させないために](https://www.4gamer.net/games/223/G022384/20160826078/)
+
 
 
 ### フェーズ1
@@ -70,22 +88,6 @@
       - 問題点や修正が必要になったら、Backlogに戻すか、期限を更新してTODOに戻す
     - Done
       - 問題なく動作したら、CheckからDoneに移して作業完了
-
-## 2回目-2日目
-- [GitHub](https://github.com)
-  - リポジトリーを作成
-- 共有ドライブ
-  - キャラクターCGコースの皆さんは、プロジェクトに組み込むためのデータができたら、決められたフォルダーに、決められたファイル名でコピーする
-  - 更新したら、Trelloなどで報告
-  - 原則として、プログラマーは報告されたデータをその日のうち、遅くとも、次の講義までに組み込み、制作者に見せる
-- [Google Drive](https://drive.google.com/drive/)
-  - グラフィック素材のファイル名や制作担当者、進捗などを共有する
-  - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
-- 作業の割り振りについて相談
-
-### 参考
-- [AUTOMATON. 一方方向ローグライクRPG『片道勇者プラス』](https://automaton-media.com/articles/newsjp/20200607-126557/)
-- [4Gamer.net. 作品の価値を摩耗させないために](https://www.4gamer.net/games/223/G022384/20160826078/)
 
 
 
