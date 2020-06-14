@@ -3,9 +3,12 @@
 
 # 参考URL
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
+- [GitHubの開発フロー](https://sketchboard.me/LBSAHzZ8ynEE)
 - [Visual Effect Graphサンプル](https://blogs.unity3d.com/jp/?s=visual+effect+graph+sample)
 - [テラシュールブログ. Unity 2017の新しいスプライトをパッキングする仕組み、”SpriteAtlas”について](http://tsubakit1.hateblo.jp/entry/2017/05/04/233000)
 - [Unity Japan. Unity道場2D編 ライティングで差をつけろ！（6月9日号）](https://youtu.be/Km_4NQPk59s)
+- [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/dat19/gp1/blob/master/github-unity.md)
+- [GitHubの自分のプロジェクトが壊れた場合](https://docs.google.com/document/d/1HlV70sEMS8G3eLAD6YMuIObY7hei7YdaXKObGV9EpYg/)
 
 # 素材
 - [ぐらびぃ](Resources/Graviy.unitypackage) > View rawをクリック
@@ -14,6 +17,21 @@
 - 6月～7月 試遊作品の完成とポートフォリオの充実(フェーズ1)
 - 11月 正式版の開発。展示版の作成 / Webで公開(フェーズ2)
 - 2月 DVDに焼いて、パッケージの作成 / Webで公開(フェーズ3)
+
+# 3週目
+## 今週、完了させたいこと
+- Unityのプロジェクトを作成して、想定した解像度でビルド
+- 仮のグラフィックを組み込んでビルドして、フルスクリーンで雰囲気を確認する
+  - Recorderを組み込んでスクリーンショットを作成。Trelloで共有する
+- 画面レイアウト、キャラクターの大きさ、UIのレイアウトについて、暫定値を決める
+
+## 進捗に応じて、以下を実施
+- グラフィックの命名方法と、Unityフォルダー内での配置を決める
+- ポートフォリオに記載する想定で、キャラクターの設定を考える
+- 2Dイメージのフォーマット、作り方について個別に講義
+- 3DオブジェクトをUnityへインポートする方法
+- GitHubでの作業練習
+
 
 # 2週目
 
