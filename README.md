@@ -21,6 +21,7 @@
 # 3週目
 ## 話題
 - [paiza開発日誌. 6/1時点の内定率は56.9%！就活再開で巻き返す方法とは](https://paiza.hatenablog.com/entry/2020/06/15/%E3%80%9021%E5%8D%92%E3%80%916/1%E6%99%82%E7%82%B9%E3%81%AE%E5%86%85%E5%AE%9A%E7%8E%87%E3%81%AF56_9%25%EF%BC%81%E5%B0%B1%E6%B4%BB%E5%86%8D%E9%96%8B%E3%81%A7%E5%B7%BB%E3%81%8D%E8%BF%94%E3%81%99%E6%96%B9)
+- [バンダイナムコスタジオ. インターンシップ](https://bandainamcostudios.snar.jp/index.aspx?id=Q30FqP_l6BU)
 
 ## 今週、完了させたいこと
 - Unityのプロジェクトを作成して、想定した解像度でビルド
