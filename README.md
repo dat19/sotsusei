@@ -10,6 +10,8 @@
 - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/dat19/gp1/blob/master/github-unity.md)
 - [GitHubの自分のプロジェクトが壊れた場合](https://docs.google.com/document/d/1HlV70sEMS8G3eLAD6YMuIObY7hei7YdaXKObGV9EpYg/)
 - [ArtStation. Art&Designのショーケース](https://www.artstation.com/)
+- [Pinterest](https://www.pinterest.jp/)
+- [Disney Research Studios.](https://studios.disneyresearch.com/)
 
 # 素材
 - [ぐらびぃ](Resources/Graviy.unitypackage) > View rawをクリック
@@ -25,6 +27,7 @@
 - [バンダイナムコスタジオ. インターンシップ](https://bandainamcostudios.snar.jp/index.aspx?id=Q30FqP_l6BU)
 - [CGWORLD](https://cgworld.jp/magazine/cgw259.html)
 - [ArtStation. Art&Designのショーケース](https://www.artstation.com/)
+- [Disney Research Studios.](https://studios.disneyresearch.com/)
 
 ## 今週、完了させたいこと
 - Unityのプロジェクトを作成して、想定した解像度でビルド
