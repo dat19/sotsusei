@@ -3,6 +3,7 @@
 
 # 参考URL
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
+  - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
 - [GitHubの開発フロー](https://sketchboard.me/LBSAHzZ8ynEE)
 - [Visual Effect Graphサンプル](https://blogs.unity3d.com/jp/?s=visual+effect+graph+sample)
 - [テラシュールブログ. Unity 2017の新しいスプライトをパッキングする仕組み、”SpriteAtlas”について](http://tsubakit1.hateblo.jp/entry/2017/05/04/233000)
@@ -42,6 +43,12 @@
 - 3DオブジェクトをUnityへインポートする方法
 - GitHubでの作業練習
 
+## 命名規則
+- [Google Drive](https://drive.google.com/drive/)
+  - グラフィック素材のファイル名や制作担当者、進捗などを共有する
+  - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
+
+
 # 2週目
 
 ## 2日目
@@ -67,9 +74,6 @@
   - キャラクターCGコースの皆さんは、プロジェクトに組み込むためのデータができたら、決められたフォルダーに、決められたファイル名でコピーする
   - 更新したら、Trelloなどで報告
   - 原則として、プログラマーは報告されたデータをその日のうち、遅くとも、次の講義までに組み込み、制作者に見せる
-- [Google Drive](https://drive.google.com/drive/)
-  - グラフィック素材のファイル名や制作担当者、進捗などを共有する
-  - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
 - 作業の割り振りについて相談
 
 ### 参考
