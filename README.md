@@ -13,6 +13,8 @@
 - [ArtStation. Art&Designのショーケース](https://www.artstation.com/)
 - [Pinterest](https://www.pinterest.jp/)
 - [Disney Research Studios.](https://studios.disneyresearch.com/)
+- [XR-HU3. パーティクル徹底解説！基本的なモジュールの使用方法から応用例まで](https://xr-hub.com/archives/3522)
+- [STYLY. パーティクルを覚える](https://styly.cc/ja/tips/unity-introduction-particle/)
 
 # 素材
 - [ぐらびぃ](Resources/Graviy.unitypackage) > View rawをクリック
