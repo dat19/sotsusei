@@ -28,10 +28,16 @@
 - ArnoldだとUnityにじかに持ってこれないので、LambertやPhongなどで着色やテクスチャの設定を
 
 # 5週目
-## 予定
-### 飛行機
-- Vehicles/Aircraft/Prefabs/AircraftPropellerを利用
-- RigidbodyのUse Gravityが必要。沈まないように、地面と飛行機の当たり判定も必要
+## メモ
+### 飛行機の不具合
+- 原因
+  - 速度が出る前に回転が発生すると、回転が止まらなくなる
+  - また、RigidbodyのUse Gravityがないと動作が安定しない
+  - 以上が重なって動作が不安定になったものと思われる。
+- 解決策
+  - RigidbodyのUse Gravityを有効にする
+  - タイヤの位置などにSphereColliderやBoxColliderを配置して、飛行機が沈んだり、飛び立つ前に転がらないようにする
+  - 地面にも当たり判定を入れて、飛行機が沈まないようにする
 
 
 # 4週目
