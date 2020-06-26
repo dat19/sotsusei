@@ -27,6 +27,13 @@
 # MAYAのシェーダー(マテリアル)について
 - ArnoldだとUnityにじかに持ってこれないので、LambertやPhongなどで着色やテクスチャの設定を
 
+# 5週目
+## 予定
+### 飛行機
+- Vehicles/Aircraft/Prefabs/AircraftPropellerを利用
+- RigidbodyのUse Gravityが必要なので、あわせて、沈まないように地面と飛行機の当たり判定が必要
+
+
 # 4週目
 ## 予定
 - 企画や仕様についてヒアリングをして、不明点を列挙する
