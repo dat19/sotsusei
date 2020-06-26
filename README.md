@@ -31,7 +31,7 @@
 ## 予定
 ### 飛行機
 - Vehicles/Aircraft/Prefabs/AircraftPropellerを利用
-- RigidbodyのUse Gravityが必要なので、あわせて、沈まないように地面と飛行機の当たり判定が必要
+- RigidbodyのUse Gravityが必要。沈まないように、地面と飛行機の当たり判定も必要
 
 
 # 4週目
