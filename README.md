@@ -42,6 +42,7 @@
   - [他のアプリケーションからのエクスポート](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-exportFBX.html)
   - [UnityのPBR(Physically based rendering)](https://docs.unity3d.com/ja/2018.4/Manual/shader-StandardShader.html)
     - 最終出力先がUnityならUnityで動く必要がある。UnityのPBRを知っていることは有利。ツールであれば[Substance Designer](https://www.borndigital.co.jp/software/1000.html)
+    - Unreal Engineでも事情は同じ [映像制作におけるUE4の活用～マテリアル設計～](https://www.unrealengine.com/ja/blog/ue4-material)
 - グラフィックデータのやりとりの方法を確認(命名規則とネットドライブ)
 - 仮グラフィックを組み込んで、軽く操作できるものを目指す
 - 各自作業を進める
