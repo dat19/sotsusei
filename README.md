@@ -2,6 +2,7 @@
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_to0KzjF6rMyHSnRQ?e=87OYJz) > 学校開始の遅れによりコンテスト応募がなくなったので、無理のないようにリスケします(6/10)
 
 # 参考URL
+- [MayaからUnityに読み込む](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-exportFBX.html)
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
   - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
 - [GitHubの開発フロー](https://sketchboard.me/LBSAHzZ8ynEE)
@@ -25,7 +26,7 @@
 - 2月 DVDに焼いて、パッケージの作成 / Webで公開(フェーズ3)
 
 # MAYAのシェーダー(マテリアル)について
-- ArnoldだとUnityにじかに持ってこれないので、LambertやPhongなどで着色やテクスチャの設定を
+- ArnoldだとUnityにマテリアルを持ってこれない。Maya側ではLambertやPhongなどで基準となる色やテクスチャの設定を行うに留め、PBRやシェーダーの設定はUnityで行う
 
 # 5週目
 ## 話題
