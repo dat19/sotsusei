@@ -2,7 +2,9 @@
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_to0KzjF6rMyHSnRQ?e=87OYJz) > 学校開始の遅れによりコンテスト応募がなくなったので、無理のないようにリスケします(6/10)
 
 # 参考URL
-- [MayaからUnityに読み込む](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-exportFBX.html)
+- MayaからUnityに読み込む
+  - [インポートの時の制限](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-ImportObjectsFrom3DApps.html)
+  - [他のアプリケーションからのエクスポート](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-exportFBX.html)
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
   - [シートひな形](https://docs.google.com/spreadsheets/d/1MV--pg9RYgMXMCftDIoX7AJAxXn95eMiCc0f8-SL5U8/)
 - [GitHubの開発フロー](https://sketchboard.me/LBSAHzZ8ynEE)
@@ -36,8 +38,9 @@
 ## 予定
 - 企画や仕様についてヒアリングをして、不明点を列挙する
 - MayaからUnityへのデータの渡し方
-  - マテリアルの制限とPBR
-  - 諸制約 https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-exportFBX.html
+  - [インポートの時の制限](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-ImportObjectsFrom3DApps.html)
+  - [他のアプリケーションからのエクスポート](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-exportFBX.html)
+  - [UnityのPBR(Physically based rendering)](https://docs.unity3d.com/ja/2018.4/Manual/shader-StandardShader.html)
 - グラフィックデータのやりとりの方法を確認(命名規則とネットドライブ)
 - 仮グラフィックを組み込んで、軽く操作できるものを目指す
 - 各自作業を進める
