@@ -17,7 +17,7 @@
 - [XR-HU3. パーティクル徹底解説！基本的なモジュールの使用方法から応用例まで](https://xr-hub.com/archives/3522)
 - [STYLY. パーティクルを覚える](https://styly.cc/ja/tips/unity-introduction-particle/)
 
-# 素材
+# 素材例
 - [ぐらびぃ](Resources/Graviy.unitypackage) > View rawをクリック
 
 # 年間の予定
@@ -26,7 +26,7 @@
 - 2月 DVDに焼いて、パッケージの作成 / Webで公開(フェーズ3)
 
 # MAYAのシェーダー(マテリアル)について
-- ArnoldだとUnityにマテリアルを持ってこれない。Maya側ではLambertやPhongなどで基準となる色やテクスチャの設定を行うに留め、PBRやシェーダーの設定はUnityで行う
+- ArnoldはUnityで読み込めない。MayaではLambertやPhongなどでざっくりと色やテクスチャの設定を行い、PBRやシェーダーの設定はUnityで行う
 
 # 5週目
 ## 話題
@@ -35,7 +35,9 @@
   
 ## 予定
 - 企画や仕様についてヒアリングをして、不明点を列挙する
-- MAYAからUnityへのデータの移行手順
+- MayaからUnityへのデータの渡し方
+  - マテリアルの制限とPBR
+  - 諸制約 https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-exportFBX.html
 - グラフィックデータのやりとりの方法を確認(命名規則とネットドライブ)
 - 仮グラフィックを組み込んで、軽く操作できるものを目指す
 - 各自作業を進める
