@@ -41,6 +41,7 @@
   - [インポートの時の制限](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-ImportObjectsFrom3DApps.html)
   - [他のアプリケーションからのエクスポート](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-exportFBX.html)
   - [UnityのPBR(Physically based rendering)](https://docs.unity3d.com/ja/2018.4/Manual/shader-StandardShader.html)
+    - 最終出力先がUnityならUnityの設定が必要。UnityのPBRを知っていることは有利。ツールであれば[Substance Designer](https://www.borndigital.co.jp/software/1000.html)
 - グラフィックデータのやりとりの方法を確認(命名規則とネットドライブ)
 - 仮グラフィックを組み込んで、軽く操作できるものを目指す
 - 各自作業を進める
