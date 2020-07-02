@@ -28,10 +28,14 @@
 - 2月 DVDに焼いて、パッケージの作成 / Webで公開(フェーズ3)
 
 # MAYAのシェーダー(マテリアル)について
-- ArnoldはUnityで読み込めない。MayaではLambertやPhongなどでざっくりと色やテクスチャの設定を行い、PBRやシェーダーの設定はUnityで行う
+- Stinger PBS, Lambert, Phongを使う
+  - Arnoldはレイトレ用の設定なので、UnityやUEでは読み込めない。他エンジンで利用する場合はStinger PBSなどを使う
+  - セルシェーダーなど、特殊な塗りを使いたい場合も同様にゲームエンジン側で動く必要があるので、設定はゲームエンジンで
 
 # 5週目
 ## 話題
+- [Naughty Dog The Last of Us Part II Art Blast](https://magazine.artstation.com/2020/06/naughty-dog-the-last-of-us-part-ii-art-blast/?fbclid=IwAR1EidrUgiwOeoqpC5lq4__F5IascmqYeQVd_Hun5WSXzmA1Vm2qducK0vA)
+  - [感想ツイート](https://twitter.com/Kouji_Tajima/status/1278481964513628160)
 - [paiza開発日誌. 新卒向け・企業に聞いた！「応募者を面接で落とした理由」ランキング【エンジニア編】](https://paiza.hatenablog.com/entry/2018/03/30/%E6%96%B0%E5%8D%92%E5%90%91%E3%81%91%E3%83%BB%E4%BC%81%E6%A5%AD%E3%81%AB%E8%81%9E%E3%81%84%E3%81%9F%EF%BC%81%E3%80%8C%E5%BF%9C%E5%8B%9F%E8%80%85%E3%82%92%E9%9D%A2%E6%8E%A5%E3%81%A7%E8%90%BD%E3%81%A8)
   - これらのことを念頭において、面接で今の制作物について紹介する時のことを想定しながら作業を進めよう
 - [CGWORLD学生CGトライアル「WHO'S NEXT?」2020年第2弾作品募集スタート！作品締切：7/31（金）](https://cgworld.jp/news/event/whosnext07.html)
