@@ -45,6 +45,7 @@
 - MayaからUnityへのデータの渡し方
   - [インポートの時の制限](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-ImportObjectsFrom3DApps.html)
   - [他のアプリケーションからのエクスポート](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-exportFBX.html)
+  - [Maya. Stingray 物理学に基づいたシェーダを作成する](https://knowledge.autodesk.com/ja/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/JPN/Maya/files/GUID-13B0F0A6-39D5-4668-A722-DD743877D2E3-htm.html)
   - [UnityのPBR(Physically based rendering)](https://docs.unity3d.com/ja/2018.4/Manual/shader-StandardShader.html)
     - 最終出力先がUnityならUnityで動く必要がある。UnityのPBRを知っていることは有利。ツールであれば[Substance Designer](https://www.borndigital.co.jp/software/1000.html)
     - Unreal Engineでも事情は同じ [映像制作におけるUE4の活用～マテリアル設計～](https://www.unrealengine.com/ja/blog/ue4-material)
