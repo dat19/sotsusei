@@ -40,6 +40,9 @@
 
 
 # 5週目
+## 現状共有
+- [Google Meet](https://meet.google.com/yav-uzhd-wjq)
+
 ## 話題
 - [Naughty Dog The Last of Us Part II Art Blast](https://magazine.artstation.com/2020/06/naughty-dog-the-last-of-us-part-ii-art-blast/?fbclid=IwAR1EidrUgiwOeoqpC5lq4__F5IascmqYeQVd_Hun5WSXzmA1Vm2qducK0vA)
   - [感想ツイート](https://twitter.com/Kouji_Tajima/status/1278481964513628160)
@@ -59,9 +62,6 @@
 - グラフィックデータのやりとりの方法を確認(命名規則とネットドライブ)
 - 仮グラフィックを組み込んで、軽く操作できるものを目指す
 - 各自作業を進める
-
-## 現状共有
-- [Google Meet](https://meet.google.com/yav-uzhd-wjq)
 
 ## メモ
 ### 飛行機の不具合
