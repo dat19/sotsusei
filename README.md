@@ -32,6 +32,13 @@
   - Arnoldはレイトレ用の設定なので、UnityやUEでは読み込めない。他エンジンで利用する場合はStinger PBSなどを使う
   - セルシェーダーなど、特殊な塗りを使いたい場合も同様にゲームエンジン側で動く必要があるので、設定はゲームエンジンで
 
+# 6週目
+## 予定
+- 試遊のための作業
+- ポートフォリオを進める
+- 新設を検討しているノベルのためのキャラ確認
+
+
 # 5週目
 ## 話題
 - [Naughty Dog The Last of Us Part II Art Blast](https://magazine.artstation.com/2020/06/naughty-dog-the-last-of-us-part-ii-art-blast/?fbclid=IwAR1EidrUgiwOeoqpC5lq4__F5IascmqYeQVd_Hun5WSXzmA1Vm2qducK0vA)
