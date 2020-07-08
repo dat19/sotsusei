@@ -47,6 +47,7 @@
     - オリジナルのシナリオ作成を依頼しても、次の週にできる訳ではない。それなりに時間がかかるので、シナリオが無くても作業を進められるようにする
   - 参考
     - [ティラノビルダー](https://b.tyrano.jp/)
+      - [インストールとチュートリアル](https://docs.google.com/document/d/1brR6KEGOmJvMyFp7wxiWz-GYgc0bMfLnRYEyNjO3vhU/)
     - [ティラノスクリプト開発で役にたつサイト](https://tyrano.jp/commu/link)
     - [keito-works](https://keito-works.com/)
 
