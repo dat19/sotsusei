@@ -3,6 +3,7 @@
 
 # 参考URL
 - MayaからUnityに読み込む
+  - [Unity2019.3用の素材をMaya2018で作成する](https://docs.google.com/document/d/1zCH_7f2IZZg361Lfu11oDT0pEKv0dbWFvMrKpOBpWKE/)
   - [インポートの時の制限](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-ImportObjectsFrom3DApps.html)
   - [他のアプリケーションからのエクスポート](https://docs.unity3d.com/ja/2018.4/Manual/HOWTO-exportFBX.html)
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
