@@ -55,6 +55,12 @@
       - [インストールとチュートリアル](https://docs.google.com/document/d/1brR6KEGOmJvMyFp7wxiWz-GYgc0bMfLnRYEyNjO3vhU/)
     - [ティラノスクリプト開発で役にたつサイト](https://tyrano.jp/commu/link)
     - [keito-works](https://keito-works.com/)
+- キャラ絵の提出先と提出方法
+  - X:\2020年\ゲーム学科\Teacher\Tanaka\ノベルキャラ絵 を開く
+  - 新規フォルダーを作成して、フォルダー名を公開名にする
+  - 自分の名前のフォルダーの中に画像をコピー。png推奨
+  - キャラの設定がある場合、readme.txt などの名前でテキストファイルを作成して、そこに記載
+
 
 # 5週目
 ## 現状共有
