@@ -21,6 +21,7 @@
 - [Disney Research Studios.](https://studios.disneyresearch.com/)
 - [XR-HU3. パーティクル徹底解説！基本的なモジュールの使用方法から応用例まで](https://xr-hub.com/archives/3522)
 - [STYLY. パーティクルを覚える](https://styly.cc/ja/tips/unity-introduction-particle/)
+- [Unity AssetStoreまとめ. 揺れもの特集](https://www.asset-sale.net/entry/unity_DynamicBone_winter2019)
 
 # 素材例
 - [ぐらびぃ](Resources/Graviy.unitypackage) > View rawをクリック
@@ -35,8 +36,13 @@
   - Arnoldはレイトレ用の設定なので、UnityやUEでは読み込めない。他エンジンで利用する場合はStinger PBSなどを使う
   - セルシェーダーなど、特殊な塗りを使いたい場合も同様にゲームエンジン側で動く必要があるので、設定はゲームエンジンで
 
+# 7週目
+- [Unity AssetStoreまとめ. 揺れもの特集](https://www.asset-sale.net/entry/unity_DynamicBone_winter2019)
+- 作業報告タイム。今週は2コマ目の最後に毎回行う
+
+
 # 6週目
-## 予定
+## 内容
 - 来週(7週目)にまた作業報告タイムを設けるので、それに向けて作業を進める
   - 箱庭の背景オブジェクト受け渡し
 - MayaからUnityへ
