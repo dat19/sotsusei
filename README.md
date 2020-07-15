@@ -36,6 +36,9 @@
   - Arnoldはレイトレ用の設定なので、UnityやUEでは読み込めない。他エンジンで利用する場合はStinger PBSなどを使う
   - セルシェーダーなど、特殊な塗りを使いたい場合も同様にゲームエンジン側で動く必要があるので、設定はゲームエンジンで
 
+## 現状共有
+- [Google Meet](https://meet.google.com/yav-uzhd-wjq)
+
 # 7週目
 - [Unity AssetStoreまとめ. 揺れもの特集](https://www.asset-sale.net/entry/unity_DynamicBone_winter2019)
 - 作業報告タイム。今週は2コマ目の最後に毎回行う
@@ -69,8 +72,6 @@
 
 
 # 5週目
-## 現状共有
-- [Google Meet](https://meet.google.com/yav-uzhd-wjq)
 
 ## 話題
 - [Naughty Dog The Last of Us Part II Art Blast](https://magazine.artstation.com/2020/06/naughty-dog-the-last-of-us-part-ii-art-blast/?fbclid=IwAR1EidrUgiwOeoqpC5lq4__F5IascmqYeQVd_Hun5WSXzmA1Vm2qducK0vA)
