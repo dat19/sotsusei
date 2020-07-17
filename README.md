@@ -53,10 +53,10 @@
 
 
 
-## 予定
+## 内容
 - [Unity AssetStoreまとめ. 揺れもの特集](https://www.asset-sale.net/entry/unity_DynamicBone_winter2019)
 - 作業報告タイム。今週は2コマ目の最後に毎回行う
-
+  - [Google Meet](https://meet.google.com/yav-uzhd-wjq)
 
 
 
