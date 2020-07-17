@@ -1,5 +1,6 @@
 # 卒業制作-2019年度生
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_to0KzjF6rMyHSnRQ?e=87OYJz) > 学校開始の遅れによりコンテスト応募がなくなったので、無理のないようにリスケします(6/10)
+- [Google Meet](https://meet.google.com/yav-uzhd-wjq)
 
 # 参考URL
 - MayaからUnityに読み込む
@@ -26,22 +27,37 @@
 # 素材例
 - [ぐらびぃ](Resources/Graviy.unitypackage) > View rawをクリック
 
+# 夏休み前後の予定
+- 7/17(金) 作業報告
+- 7/24(金) 休み
+- 7/28(火) ノベルス・シナリオコースから企画書の第一弾提出
+- 7/29(水) 休み
+- 7/31(金) ノベルス・シナリオコースの企画書の確認と選択 / 報告会
+- 8/7(金) これまでのまとめと今後の作業予定の確認
+- **夏休み**
+- 8/26(水) 授業再開
+
 # 年間の予定
 - 6月～7月 試遊作品の完成とポートフォリオの充実(フェーズ1)
 - 11月 正式版の開発。展示版の作成 / Webで公開(フェーズ2)
 - 2月 DVDに焼いて、パッケージの作成 / Webで公開(フェーズ3)
 
-# Mayaのシェーダー(マテリアル)について
-- Stinger PBS, Lambert, Phongを使う
-  - Arnoldはレイトレ用の設定なので、UnityやUEでは読み込めない。他エンジンで利用する場合はStinger PBSなどを使う
-  - セルシェーダーなど、特殊な塗りを使いたい場合も同様にゲームエンジン側で動く必要があるので、設定はゲームエンジンで
-
-## 現状共有
-- [Google Meet](https://meet.google.com/yav-uzhd-wjq)
-
 # 7週目
+## ノベルス・シナリオコースコラボ
+- 7/31(金)に企画書が届く。希望の企画を選ぶ
+- キャラ絵の提出先と提出方法
+  - `X:\2020年\ゲーム学科\Teacher\Tanaka\ノベルキャラ絵` を開く
+  - 新規フォルダーを作成して、フォルダー名を公開名にする
+  - 自分の名前のフォルダーの中に画像をコピー。png推奨
+  - キャラの設定がある場合、readme.txt などの名前でテキストファイルを作成して、そこに記載
+
+
+
+## 予定
 - [Unity AssetStoreまとめ. 揺れもの特集](https://www.asset-sale.net/entry/unity_DynamicBone_winter2019)
 - 作業報告タイム。今週は2コマ目の最後に毎回行う
+
+
 
 
 # 6週目
@@ -64,11 +80,6 @@
       - [インストールとチュートリアル](https://docs.google.com/document/d/1brR6KEGOmJvMyFp7wxiWz-GYgc0bMfLnRYEyNjO3vhU/)
     - [ティラノスクリプト開発で役にたつサイト](https://tyrano.jp/commu/link)
     - [keito-works](https://keito-works.com/)
-- キャラ絵の提出先と提出方法
-  - `X:\2020年\ゲーム学科\Teacher\Tanaka\ノベルキャラ絵` を開く
-  - 新規フォルダーを作成して、フォルダー名を公開名にする
-  - 自分の名前のフォルダーの中に画像をコピー。png推奨
-  - キャラの設定がある場合、readme.txt などの名前でテキストファイルを作成して、そこに記載
 
 
 # 5週目
