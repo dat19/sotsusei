@@ -43,6 +43,9 @@
 - 2月 DVDに焼いて、パッケージの作成 / Webで公開(フェーズ3)
 
 # 8週目(7/22, 7/31)
+## 話題
+- [Unity アセット真夏のアドベントカレンダー 2020 Summer!](http://assetstore.info/eventandcontest/adventcalendar/summer-advent-calendar-2020/)
+
 ## 7/22
 - 作業
 
