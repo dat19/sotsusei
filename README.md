@@ -44,6 +44,7 @@
 
 # 8週目(7/22, 7/31)
 ## 話題
+- [1週間ゲームジャムが8/10から開始](https://twitter.com/naichilab/status/1287368068390244352)
 - [Unity アセット真夏のアドベントカレンダー 2020 Summer!](http://assetstore.info/eventandcontest/adventcalendar/summer-advent-calendar-2020/)
 
 ## 7/22
