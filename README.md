@@ -47,13 +47,14 @@
 - [1週間ゲームジャムが8/10から開始](https://twitter.com/naichilab/status/1287368068390244352)
 - [Unity アセット真夏のアドベントカレンダー 2020 Summer!](http://assetstore.info/eventandcontest/adventcalendar/summer-advent-calendar-2020/)
 
+## 7/31
+- ノベルス・シナリオコースの企画書の確認と選択
+  - [参加アンケート](https://docs.google.com/forms/d/e/1FAIpQLSd_O6ftEx9GmrX29RjVkxQBVvWUIt-PxnAFLipAQuCuqpFf1g/viewform?usp=sf_link)
+
 ## 7/22
 - 作業
 - [ティラノスクリプト試作プロジェクト](https://github.com/dat19/sotsusei/wiki/%E3%83%86%E3%82%A3%E3%83%A9%E3%83%8E%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E8%A9%A6%E4%BD%9C%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
 
-
-## 7/31
-- ノベルス・シナリオコースの企画書の確認と選択
 
 ## Color Offrir改定案
 - ワールドを探索して敵を見つけてやっつけると、白黒になっていた仕掛けの色が戻って、ゴールへの道ができる。今、作っている素材はそのままに、内容を探索ゲームに変更
