@@ -45,6 +45,7 @@
 - [Unity アセット真夏のアドベントカレンダー 2020 Summer!](http://assetstore.info/eventandcontest/adventcalendar/summer-advent-calendar-2020/)
 
 ## 7/31
+- 作業
 - ノベルス・シナリオコースの企画書の確認と選択
   - [参加アンケート](https://docs.google.com/forms/d/e/1FAIpQLSd_O6ftEx9GmrX29RjVkxQBVvWUIt-PxnAFLipAQuCuqpFf1g/viewform?usp=sf_link) - 好きそうなものを選んでもらえればOK
   - キャラ制作やイラスト希望であったり、ゲーム制作で直近の作業がない人は参加して作品を増やして欲しい
