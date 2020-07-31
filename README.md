@@ -48,6 +48,7 @@
 ## 7/31
 - 作業
 - ノベルス・シナリオコースの企画書の確認と選択
+  - [企画書紹介動画](https://youtu.be/7R66XOf8F3I)
   - [参加アンケート](https://docs.google.com/forms/d/e/1FAIpQLSd_O6ftEx9GmrX29RjVkxQBVvWUIt-PxnAFLipAQuCuqpFf1g/viewform?usp=sf_link) - 好きそうなものを選んでもらえればOK
   - キャラ制作やイラスト希望であったり、ゲーム制作で直近の作業がない人は参加して作品を増やして欲しい
   - 企画書を元にキャラクターや背景の候補案を描く > 企画者に見せる > フィードバックをもらう > 採用が決まったら必要な仕様を確認して描く
