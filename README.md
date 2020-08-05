@@ -41,6 +41,8 @@
 
 # 9週目(8/5, 8/7)
 - [Google Meet](https://meet.google.com/yav-uzhd-wjq)
+- ノベルス企画紹介動画
+  - ネットドライブの `X:\2020年\ゲーム学科\Teacher\Tanaka\sotsusei\`フォルダーを開いて、`ノベルス企画紹介.mp4`を再生
 
 ## 予定
 - 夏休み前のまとめ
