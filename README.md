@@ -41,6 +41,7 @@
 
 # 10週目(8/26, 28)
 ## 話題
+- [デジゲー博](http://digigame-expo.org/)
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
   - [投稿作品 JUMP OR DIE](https://unityroom.com/games/jod)
   - [学生活動事例 Cammel 広島大学開発チームさん](https://twitter.com/Cammel2019/status/1296287367813165062)
@@ -50,7 +51,7 @@
 
 ## 予定
 - ノベル用の素材でできたものがあれば、8/28にとりまとめて送付
-- 作品展の代わりに、年内を目途に、作品の公開ページを作成して公開予定
+- 作品展の代わりに、11/27を目安に作品の公開ページを作成して公開予定
   - 参考: https://dat18.github.io/works/
   - WebGL版 or PCダウンロード版
   - 公開に向けての作業計画
