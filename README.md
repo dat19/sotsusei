@@ -42,6 +42,7 @@
 # 10週目(8/26, 28)
 ## 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+  - [投稿作品 JUMP OR DIE](https://unityroom.com/games/jod)
   - [学生活動事例 Cammel 広島大学開発チームさん](https://twitter.com/Cammel2019/status/1296287367813165062)
 - [unity1week online共有会#2](https://meetup.unity3d.jp/jp/events/1254)
   - 1日目 9/12 20:00 / 2日目 9/19
