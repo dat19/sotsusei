@@ -3,6 +3,8 @@
 - [Google Meet](https://meet.google.com/yav-uzhd-wjq)
 
 # 参考URL
+- [デザイナー志望者は必見！ 採用されるポートフォリオを作る「た行」の法則](https://www.e-aidem.com/ch/jimocoro/entry/otakana01)
+- [た行で考える、採用ポートフォリオの作り方（主にクリエイティブ職向け）](https://note.com/jyushok/n/n39429686354a)
 - MayaからUnityに読み込む
   - [Unity2019.3用の素材をMaya2018で作成する](https://docs.google.com/document/d/1zCH_7f2IZZg361Lfu11oDT0pEKv0dbWFvMrKpOBpWKE/)
   - [Maya - Unity フロー ゲーム向け機能紹介](https://area.autodesk.jp/movie/unity-autodesk-game-pipeline/14.html)
