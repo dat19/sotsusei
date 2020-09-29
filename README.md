@@ -47,6 +47,11 @@
 ## 話題
 - [OPTPiX SpriteStudio無料化](https://www.webtech.co.jp/spritestudio/index.html)
 
+## 予定
+- 各チーム、現状確認と残り作業の洗い出し
+- 11月末までのスケジュール作成
+- 作業が完了している人は、ノベルス、ポートフォリオ、別プロジェクト立ち上げなど
+- 作品Webページの作成
 
 ---
 
