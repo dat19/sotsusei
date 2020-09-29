@@ -43,6 +43,13 @@
 - 10月～11月 正式版の開発。展示版の作成 / Webで公開(フェーズ2)
 - 2月 DVDに焼いて、パッケージの作成 / Webで公開(フェーズ3)
 
+# 後期1週目
+## 話題
+- [OPTPiX SpriteStudio無料化](https://www.webtech.co.jp/spritestudio/index.html)
+
+
+---
+
 # 14週目
 ## 話題
 - [unity1week online共有会 #2-B](https://youtu.be/SS_2VbdzSL0)
