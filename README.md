@@ -49,12 +49,12 @@
 
 ## 予定
 - 各チーム、現状確認と残り作業の洗い出し
+  - 前期レポートを元に、一人一人、これまでに制作したものをチーム内に共有する
   - Trelloに残り作業を書き出す
   - 各作業にかかる想定作業日数を記す
   - Googleワークシートなどで、ガントチャートを作成
     - [Team Hackers. ガントチャートって何？ ガントチャートを使う3つのメリットとおすすめツール](https://teamhackers.io/merit-gantt-chart/)
-    - [jooto. Googleスプレッドシートでのガントチャートの作り方と注意点](https://www.jooto.com/contents/spreadsheet-gantt/)
-    
+    - [jooto. Googleスプレッドシートでのガントチャートの作り方と注意点](https://www.jooto.com/contents/spreadsheet-gantt/)    
 - 11月末までのスケジュール作成
   - 10/7,9
   - 10/14
