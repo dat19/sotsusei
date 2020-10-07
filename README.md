@@ -28,6 +28,7 @@
 - https://dotpict.net/
 
 # 素材例
+- [2018年度生 卒業制作Webページ](https://dat18.github.io/works/)
 - [ぐらびぃ](Resources/Graviy.unitypackage) > View rawをクリック
 
 # 夏休み前後の予定
