@@ -47,6 +47,9 @@
 - 2月 DVDに焼いて、パッケージの作成 / Webで公開(フェーズ3)
 
 # 後期4週目
+## 話題
+- [gamesindustry.biz. Brenda Romero氏のパーソナルブランド構築のヒント](https://jp.gamesindustry.biz/article/2011/20110202/)
+
 ## 予定
 - 卒業制作の作業、質疑応答
   - ローグライク
