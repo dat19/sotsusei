@@ -57,6 +57,7 @@
     - [2D IKの調査](https://blogs.unity3d.com/jp/2018/12/04/getting-started-with-2d-inverse-kinematics/)
 - Flying in the sky
   - 建造物とリングの配置 / 海の調査 / 配置ができたら地ならし / シーン遷移 / ルールの実装 / リングをくぐる
+  - リング作成済み
 - アニマルカジノ
   - ミニゲーム / 画像の組み込み / シナリオ作成
   - ゲームシーンの背景について改めて打ち合わせ
