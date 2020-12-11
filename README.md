@@ -27,6 +27,28 @@
 - [Unity AssetStoreまとめ. 揺れもの特集](https://www.asset-sale.net/entry/unity_DynamicBone_winter2019)
 - https://dotpict.net/
 
+# 残りの作業
+- 作品の完成とビルド
+- 公開＋ダウンロードWebページの制作(PG)
+  - [トップページ(仮)](https://dat19.github.io/works/)。このページからリンクする先の作品ページを作成する
+  - 参考 [2018年度生 卒業制作Webページ](https://dat18.github.io/works/)
+- DVDパッケージ、ラベルのデザイン(CG)
+- DVDパッケージとDVDへの印刷、パッケージの組み立て、DVDへのデータ焼き(全員。最後の週に予定)
+
+## DVDパッケージ、ラベル仕様
+「[アマレータイプ ひな形](https://www.google.com/search?biw=1235&bih=681&ei=qbbSX6_YF4SB-Qa_6Y3AAQ&q=%E3%82%A2%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97+%E3%81%B2%E3%81%AA%E5%BD%A2&oq=%E3%82%A2%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97+%E3%81%B2%E3%81%AA%E5%BD%A2&gs_lcp=CgZwc3ktYWIQAzoECAAQHjoGCAAQBRAeOgUIIRCgAVCfCFiWF2DlGGgAcAB4AIABxQGIAe8IkgEEMTIuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwjv0Mjdz8TtAhWEQN4KHb90AxgQ4dUDCA0&uact=5)」で検索するといろいろと出てくるので参考に。
+
+### DVDラベル
+- 12cm四方で画像を作成。350dpi推奨(300dpi以上)
+- Epson Print CDを利用
+- EP4004マニュアル p16, 39, 41
+
+### DVDパッケージ トールケース(アマレータイプ)
+- 183mm x (129.5 + 14 + 129.5)mm
+- 350推奨(300dpi以上)
+
+
+
 # 素材例
 - [2018年度生 卒業制作Webページ](https://dat18.github.io/works/)
 - [ぐらびぃ](Resources/Graviy.unitypackage) > View rawをクリック
@@ -49,18 +71,6 @@
 
 # 公開ページ
 - https://dat19.github.io/works/
-
-# DVDパッケージ、ラベル仕様
-「[アマレータイプ ひな形](https://www.google.com/search?biw=1235&bih=681&ei=qbbSX6_YF4SB-Qa_6Y3AAQ&q=%E3%82%A2%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97+%E3%81%B2%E3%81%AA%E5%BD%A2&oq=%E3%82%A2%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97+%E3%81%B2%E3%81%AA%E5%BD%A2&gs_lcp=CgZwc3ktYWIQAzoECAAQHjoGCAAQBRAeOgUIIRCgAVCfCFiWF2DlGGgAcAB4AIABxQGIAe8IkgEEMTIuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwjv0Mjdz8TtAhWEQN4KHb90AxgQ4dUDCA0&uact=5)」で検索するといろいろと出てくるので参考に。
-
-## DVDラベル
-- 12cm四方で画像を作成。350dpi推奨(300dpi以上)
-- Epson Print CDを利用
-- EP4004マニュアル p16, 39, 41
-
-## DVDパッケージ トールケース(アマレータイプ)
-- 183mm x (129.5 + 14 + 129.5)mm
-- 350推奨(300dpi以上)
 
 # 後期 12/16, 18
 - 18日の3時限目ごろ、ノベルの進捗打ち合わせ。できたところまで持ち寄って、進捗や方向性の確認
