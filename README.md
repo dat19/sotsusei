@@ -89,6 +89,12 @@
 ## 今週の予定
 - 金曜2コマ、4コマ目に進捗報告
 
+## 1週間ゲームジャム参加報告
+参加した人は、成果の確認、および、共有のためにURLを以下から報告してください。
+
+- [1週間ゲームジャムURL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
+
+
 # 後期 12/16, 18
 - 18日の3時限目ごろ、ノベルの進捗打ち合わせ。できたところまで持ち寄って、進捗や方向性の確認
 
