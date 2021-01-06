@@ -105,10 +105,10 @@
 ## 進捗
 - 1/6に以下を実施予定
   - 2コマ目の最後
-    - Flying in the skyとToy Warsの最新版を実行して、残りの作業をリストアップする
+    - Toy Warsの最新版を確認して、残りの作業をリストアップ
 - 1/8に以下を実施予定
   - 2コマ目の最後
-    - アニマルカジノとを実行して、残りの作業を確認
+    - Flying in the skyとアニマルカジノを実行して、残りの作業を確認
     - Coulerur Offrir 設定資料を作れそうか確認
   - 3コマ目　ノベル打ち合わせ
 - 全作品
@@ -116,9 +116,7 @@
   - Webページ
     - https://dat19.github.io/works/
 - 卒業制作の作業、質疑応答
-  - Toy Wars
-    - タイトル > ゲーム > ゲームオーバー or リザルト > エンディングの流れ
-    - ボス組み込み
+  - [Toy Wars](https://github.com/dat19/sotsusei/wiki/ToyWars-TODO)
     - (完成してから)マップ作成 参考 [@kyooooooooma . [風来のシ○ン風] いい感じにランダムで、いい感じに恣意的なランダムダンジョンを生成する](https://qiita.com/kyooooooooma/items/a8ee1157b89b7f744098)
 - Flying in the sky
   - 建造物とリングの配置
