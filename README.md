@@ -104,27 +104,16 @@
 - 1/12(火) 13:30 703教室 ぴーち☆みゅーじっくの収録
 
 ## 進捗
-- 1/6に以下を実施予定
-  - 2コマ目の最後
-    - Toy Warsの最新版を確認して、残りの作業をリストアップ
-- 1/8に以下を実施予定
-  - 2コマ目の最後
-    - Flying in the skyとアニマルカジノを実行して、残りの作業を確認
-    - Coulerur Offrir 設定資料を作れそうか確認
-  - 3コマ目　ノベル打ち合わせ
+- 1/8 3コマ目　ノベル打ち合わせ
 - 全作品
   - DVDのラベルとパッケージのデザイン
   - Webページ
     - https://dat19.github.io/works/
-- 卒業制作の作業、質疑応答
+- 卒業制作の作業
+  - [アニマルカジノ](https://github.com/dat19/sotsusei/wiki/%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AB%E3%82%AB%E3%82%B8%E3%83%8E-TODO)  
+  - [Flying in the sky](https://github.com/dat19/sotsusei/wiki/Flying-in-the-sky-TODO)
   - [Toy Wars](https://github.com/dat19/sotsusei/wiki/ToyWars-TODO)
     - (完成してから)マップ作成 参考 [@kyooooooooma . [風来のシ○ン風] いい感じにランダムで、いい感じに恣意的なランダムダンジョンを生成する](https://qiita.com/kyooooooooma/items/a8ee1157b89b7f744098)
-  - Flying in the sky
-    - 建造物とリングの配置
-    - リングの管理と表示
-    - リングの取得 / UIへの反映 / クリア確認
-    - タイムの管理と表示
-  - [アニマルカジノ](https://github.com/dat19/sotsusei/wiki/%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AB%E3%82%AB%E3%82%B8%E3%83%8E-TODO)  
   - Coulerur Offrir
     - 設定資料
     - タイトルや背景、キャラクター、武器など、これまで作成した素材を使って、ゲームの概要をパンフレットかスライドのような形でまとめる
