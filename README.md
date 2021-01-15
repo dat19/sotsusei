@@ -3,6 +3,9 @@
 - [Google Meet](https://meet.google.com/yav-uzhd-wjq)
 
 # 参考URL
+- [PEKO STEP. 効果音作成Web](https://www.peko-step.com/tool/soundeffect/)
+- [効果音作成ツール Bfxr](https://www.bfxr.net/)
+  - [Bfxrの記事](http://inter-high-blog.unity3d.jp/2017/08/09/bfxr/)
 - [デザイナー志望者は必見！ 採用されるポートフォリオを作る「た行」の法則](https://www.e-aidem.com/ch/jimocoro/entry/otakana01)
 - [た行で考える、採用ポートフォリオの作り方（主にクリエイティブ職向け）](https://note.com/jyushok/n/n39429686354a)
 - MayaからUnityに読み込む
