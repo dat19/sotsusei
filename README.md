@@ -101,7 +101,16 @@
 - 最新のビルドデータ。Buildsのようなフォルダーを作り、その中にコピー
 - 最新のUnityプロジェクトフォルダー。古いものは消して、毎回、最新のものをコピーしておく
 
-
+## メモ
+- Mayaで地面作成
+  - 高低差だけなら[MODELING HAPPY. リアルな地形データの白黒画像を取得して簡単にMAYAで山を作る方法です。](https://modelinghappy.com/archives/6139)
+  - 塗りだとPaint Effectで何かできそう
+    - [ペイントエフェクトブラシ設定](http://me.autodesk.jp/wam/maya/docs/Maya2010/index.html?url=Paint_Effects_and_3D_Paint_Windows_and_Editors_Paint_Effects_Brush_Settings.htm,topicNumber=d0e138555)
+  - 有料ツールが多い(Easy Terrainとか)
+    - [関連記事](https://cgtracking.net/cg-soft/maya/easy-terrain-for-maya/)
+  - [2013年の記事だけど](http://www.cgarena.com/freestuff/tutorials/maya/forest/forest.html)
+    - http://cg.follow-w.net/?eid=1020197
+  
 ## 進捗
 - 1/8 3コマ目　ノベル打ち合わせ
 - 全作品
