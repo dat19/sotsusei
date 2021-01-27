@@ -81,11 +81,6 @@
 
 # 後期 1/27, 29
 
-## ノベル参加の人向け
-- ライセンスの相談
-  - [CC BY SA 4.0](https://docs.google.com/document/d/1bOsfThU8Irc3QhH2xstuJ2w0AATXo-A-j9PqxU4-8AY/)での公開について
-  
-
 1/29の時点で、一旦完成候補版として作品をビルドして以下に実行フォルダーを提出する。
 
 ## 提出先
@@ -99,6 +94,11 @@
 - 作品のサムネイル画像。1920x1080ピクセルのものを最低1枚。ゲーム内容が伝わるもの
 - 最新のビルドデータ。Buildsのようなフォルダーを作り、その中にコピー
 - 最新のUnityプロジェクトフォルダー。古いものは消して、毎回、最新のものをコピーしておく
+
+## 来週
+- ライセンスの相談
+  - [CC BY SA 4.0](https://docs.google.com/document/d/1bOsfThU8Irc3QhH2xstuJ2w0AATXo-A-j9PqxU4-8AY/)での公開について
+- DVDラベルとパッケージ の相談
 
 
 
