@@ -110,10 +110,10 @@
 ### プロジェクトと素材
 Unityのプロジェクトフォルダーを圧縮したものと、ノベルス用に描いた素材を `X:\2020年\ゲーム学科\Student\卒業制作\最終データ`フォルダー内の作品ページ。
 
-
-## 来週
+### ノベルス画像のクリエイティブコモンズ
 - ライセンスの相談
-  - [CC BY SA 4.0](https://docs.google.com/document/d/1bOsfThU8Irc3QhH2xstuJ2w0AATXo-A-j9PqxU4-8AY/)での公開について
+  - [クリエイティブコモンズの利用について](https://docs.google.com/document/d/1bOsfThU8Irc3QhH2xstuJ2w0AATXo-A-j9PqxU4-8AY/)
+  - [意向調査](https://docs.google.com/forms/d/e/1FAIpQLScLsLNV84H0LWuCIDYZ7d3pDSsYEwf9StFT4aoZ6w3PfCwx7g/viewform?usp=sf_link)
 - DVDラベルとパッケージ の相談
 
 
