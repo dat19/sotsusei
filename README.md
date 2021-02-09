@@ -38,27 +38,6 @@
 - DVDパッケージ、ラベルのデザイン(CG)
 - DVDパッケージとDVDへの印刷、パッケージの組み立て、DVDへのデータ焼き(全員。最後の週に予定)
 
-## DVDパッケージ、ラベル仕様
-「[アマレータイプ ひな形](https://www.google.com/search?biw=1235&bih=681&ei=qbbSX6_YF4SB-Qa_6Y3AAQ&q=%E3%82%A2%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97+%E3%81%B2%E3%81%AA%E5%BD%A2&oq=%E3%82%A2%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97+%E3%81%B2%E3%81%AA%E5%BD%A2&gs_lcp=CgZwc3ktYWIQAzoECAAQHjoGCAAQBRAeOgUIIRCgAVCfCFiWF2DlGGgAcAB4AIABxQGIAe8IkgEEMTIuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwjv0Mjdz8TtAhWEQN4KHb90AxgQ4dUDCA0&uact=5)」で検索するといろいろと出てくるので参考に。
-
-### DVDラベル
-- 12cm四方で画像を作成。350dpi推奨(300dpi以上)
-- Epson Print CDを利用
-- EP4004マニュアル p16, 39, 41
-
-### DVDパッケージ トールケース(アマレータイプ)
-- 183mm x (129.5 + 14 + 129.5)mm
-- 350推奨(300dpi以上)
-
-### 作成枚数
-チームメンバー数+予備1枚を作成します。
-
-- アニマルカジノ 8枚
-- CouleurOffrir 10枚
-- FlyingInTheSky 9枚
-- 会社でおもちゃダンジョン 7枚
-
-
 # 素材例
 - [2018年度生 卒業制作Webページ](https://dat18.github.io/works/)
 - [ぐらびぃ](Resources/Graviy.unitypackage) > View rawをクリック
@@ -72,8 +51,8 @@
   - 1/13, 15
   - 1/20, 22 β版完成
   - 1/27, 29 マスターアップ
-  - **2/3, 5 DVDパッケージ、DVDラベルの原稿、Webページ完成**
-  - 2/10, 12 DVD焼き / パッケージ組み立て / とりまとめと提出 / Web公開
+  - 2/3, 5 DVDパッケージ、DVDラベルの原稿、Webページ完成
+  - **2/10, 12 DVD焼き / パッケージ組み立て / とりまとめと提出 / Web公開**
 
 
 # 年間の予定
@@ -84,6 +63,69 @@
 
 # 公開ページ
 - https://dat19.github.io/works/
+
+
+# 後期2/10, (11), 12
+
+## 2/10
+- DVDパッケージ, ラベルデータができていたら印刷
+
+### DVDパッケージ、ラベル仕様
+「[アマレータイプ ひな形](https://www.google.com/search?biw=1235&bih=681&ei=qbbSX6_YF4SB-Qa_6Y3AAQ&q=%E3%82%A2%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97+%E3%81%B2%E3%81%AA%E5%BD%A2&oq=%E3%82%A2%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97+%E3%81%B2%E3%81%AA%E5%BD%A2&gs_lcp=CgZwc3ktYWIQAzoECAAQHjoGCAAQBRAeOgUIIRCgAVCfCFiWF2DlGGgAcAB4AIABxQGIAe8IkgEEMTIuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwjv0Mjdz8TtAhWEQN4KHb90AxgQ4dUDCA0&uact=5)」で検索するといろいろと出てくるので参考に。
+
+#### DVDラベル
+- 12cm四方で画像を作成。350dpi推奨(300dpi以上)
+- Epson Print CDを利用
+- EP4004マニュアル p16, 39, 41
+
+#### DVDパッケージ トールケース(アマレータイプ)
+- 183mm x (129.5 + 14 + 129.5)mm
+- 350推奨(300dpi以上)
+
+
+## 2/11(ゲームプログラマーコース)
+- DVDに焼くデータ完了
+- プロジェクト一式を提出
+
+### 実行ファイル名とファイルアイコンの設定
+ビルドの際には以下を設定する。
+
+- 64x64ピクセル程度のサイズで、ファイルアイコン用のPNG画像を作成して、Unityプロジェクトに追加
+- EditメニューからProject Settings > Player
+- Product Settingに作品名を設定
+- Default Icon欄にファイルアイコン用のPNG画像をProjectウィンドウからドラッグ&ドロップ
+
+以上をやってビルドすると、ファイル名とファイルアイコンが設定される。
+
+### DVDに焼くためのデータ
+`X:\2020年\ゲーム学科\Student\卒業制作\最終データ`フォルダー内の作品ページ。
+個人作品をDVDに加えたい場合は自分でフォルダーを作成して構いません。
+
+
+## 2/12
+- DVD書き込み
+- ラベル印刷
+- パッケージ作成
+- データ提供 
+
+### 作成枚数
+チームメンバー数+予備1枚を作成します。
+
+- アニマルカジノ 8枚
+- CouleurOffrir 10枚
+- FlyingInTheSky 9枚
+- 会社でおもちゃダンジョン 7枚
+
+
+### プロジェクトと素材
+Unityのプロジェクトフォルダーを圧縮したものと、ノベルス用に描いた素材を `X:\2020年\ゲーム学科\Student\卒業制作\最終データ`フォルダー内の作品ページ。
+
+### ノベルス画像のクリエイティブコモンズ
+- ライセンスの相談
+  - [クリエイティブコモンズの利用について](https://docs.google.com/document/d/1bOsfThU8Irc3QhH2xstuJ2w0AATXo-A-j9PqxU4-8AY/)
+  - [意向調査](https://docs.google.com/forms/d/e/1FAIpQLScLsLNV84H0LWuCIDYZ7d3pDSsYEwf9StFT4aoZ6w3PfCwx7g/viewform?usp=sf_link)
+- 提出先 `X:\2020年\ゲーム学科\Student\卒業制作\ノベルグラフィック提出`
+  - ノベルス以外の素材も歓迎
 
 
 # 後期 2/3, 5
