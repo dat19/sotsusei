@@ -48,6 +48,8 @@
 - データ提出
 - DVDデータをローカルのデスクトップにコピー
 - 試遊会
+  - [感想をぜひ書き込んでください](https://docs.google.com/forms/d/e/1FAIpQLSeJprk6nIOgfvDhemoMpH8sSG57Fs8ZIH5085jOIofN4Wf3eA/viewform?usp=sf_link)
+  - 感想は公開ページに貼っておきます
 
 **DVDのデータ焼き込みは後日行うので、今日は実施せず**
 
