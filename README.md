@@ -30,13 +30,6 @@
 - [Unity AssetStoreまとめ. 揺れもの特集](https://www.asset-sale.net/entry/unity_DynamicBone_winter2019)
 - https://dotpict.net/
 
-# 残りの作業
-- 作品の完成とビルド
-- 公開＋ダウンロードWebページの制作(PG)
-  - [トップページ(仮)](https://dat19.github.io/works/)。このページからリンクする先の作品ページを作成する
-  - 参考 [2018年度生 卒業制作Webページ](https://dat18.github.io/works/)
-- DVDパッケージ、ラベルのデザイン(CG)
-- DVDパッケージとDVDへの印刷、パッケージの組み立て、DVDへのデータ焼き(全員。最後の週に予定)
 
 # 素材例
 - [2018年度生 卒業制作Webページ](https://dat18.github.io/works/)
@@ -48,6 +41,41 @@
 
 
 # 後期2/10, (11), 12
+
+## 2/12予定
+
+- 印刷とカット
+- データ提出
+- DVDデータをローカルのデスクトップにコピー
+- 試遊会
+
+**DVDのデータ焼き込みは後日行うので、今日は実施せず**
+
+### 印刷とカット
+- DVDラベル印刷
+- DVDケース印刷とカット
+
+#### 作成枚数
+チームメンバー数+予備1枚を作成します。
+
+- アニマルカジノ 8枚
+- CouleurOffrir 10枚
+- FlyingInTheSky 9枚
+- 会社でおもちゃダンジョン 7枚
+
+### データ提出
+- Unityのプロジェクトフォルダーを圧縮したものを `最終プロジェクトフォルダー` へZIP圧縮してコピー
+- ノベルス、および、再利用可能な素材
+  - ライセンスの相談
+    - [クリエイティブコモンズの利用について](https://docs.google.com/document/d/1bOsfThU8Irc3QhH2xstuJ2w0AATXo-A-j9PqxU4-8AY/)
+    - [意向調査](https://docs.google.com/forms/d/e/1FAIpQLScLsLNV84H0LWuCIDYZ7d3pDSsYEwf9StFT4aoZ6w3PfCwx7g/viewform?usp=sf_link)
+  - 提出先 `X:\2020年\ゲーム学科\Student\卒業制作\ノベルグラフィック提出`
+
+### DVDデータをデスクトップにコピー
+準備ができたら指示を出すので、指定のパスから `DVDデータ` フォルダーを手元のPCのデスクトップにコピーする。
+
+
+---
 
 ## 2/10
 - DVDパッケージ, ラベルデータができていたら印刷
@@ -84,33 +112,17 @@
 個人作品をDVDに加えたい場合は自分でフォルダーを作成して構いません。
 
 
-## 2/12
-- DVD書き込み
-- ラベル印刷
-- パッケージ作成
-- データ提供 
-
-### 作成枚数
-チームメンバー数+予備1枚を作成します。
-
-- アニマルカジノ 8枚
-- CouleurOffrir 10枚
-- FlyingInTheSky 9枚
-- 会社でおもちゃダンジョン 7枚
-
-
-### プロジェクトと素材
-Unityのプロジェクトフォルダーを圧縮したものと、ノベルス用に描いた素材を `X:\2020年\ゲーム学科\Student\卒業制作\最終データ`フォルダー内の作品ページ。
-
-### ノベルス画像のクリエイティブコモンズ
-- ライセンスの相談
-  - [クリエイティブコモンズの利用について](https://docs.google.com/document/d/1bOsfThU8Irc3QhH2xstuJ2w0AATXo-A-j9PqxU4-8AY/)
-  - [意向調査](https://docs.google.com/forms/d/e/1FAIpQLScLsLNV84H0LWuCIDYZ7d3pDSsYEwf9StFT4aoZ6w3PfCwx7g/viewform?usp=sf_link)
-- 提出先 `X:\2020年\ゲーム学科\Student\卒業制作\ノベルグラフィック提出`
-  - ノベルス以外の素材も歓迎
-
 
 ---
+
+# 残りの作業
+- 作品の完成とビルド
+- 公開＋ダウンロードWebページの制作(PG)
+  - [トップページ(仮)](https://dat19.github.io/works/)。このページからリンクする先の作品ページを作成する
+  - 参考 [2018年度生 卒業制作Webページ](https://dat18.github.io/works/)
+- DVDパッケージ、ラベルのデザイン(CG)
+- DVDパッケージとDVDへの印刷、パッケージの組み立て、DVDへのデータ焼き(全員。最後の週に予定)
+
 
 # 12月以降の日程(現在確認できているスケジュール)
   - 12/2, 4 
