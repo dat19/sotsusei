@@ -47,7 +47,9 @@
 - 印刷とカット
 - データ提出
 - DVDデータをローカルのデスクトップにコピー
-- 試遊会
+  - `X:\2020年\ゲーム学科\Student\卒業制作\DVDデータ` を開いて、 `DVDデータ`フォルダーと`DVDの焼き方.txt`を、デスクトップにコピー
+  - 中に作品があるので、息抜きに遊んでみてください
+- 試遊
   - [感想をぜひ書き込んでください](https://docs.google.com/forms/d/e/1FAIpQLSeJprk6nIOgfvDhemoMpH8sSG57Fs8ZIH5085jOIofN4Wf3eA/viewform?usp=sf_link)
   - 感想は後日、[公開ページ](https://dat19.github.io/works/)に追記します
 
