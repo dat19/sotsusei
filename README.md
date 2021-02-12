@@ -69,6 +69,7 @@
 
 ### データ提出
 - Unityのプロジェクトフォルダーを圧縮したものを `X:\2020年\ゲーム学科\Student\卒業制作\最終プロジェクトフォルダー` へZIP圧縮してコピー
+- DVDパッケージやラベルデータは `X:\2020年\ゲーム学科\Student\卒業制作\DVDデータ` フォルダー内
 - ノベルス、および、再利用可能な素材
   - ライセンスの相談
     - [クリエイティブコモンズの利用について](https://docs.google.com/document/d/1bOsfThU8Irc3QhH2xstuJ2w0AATXo-A-j9PqxU4-8AY/)
